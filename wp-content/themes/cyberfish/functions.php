@@ -69,4 +69,4 @@ function productos_type(){
 
 }
 
-add_action('init', 'products_type');
+add_action('init', 'productos_type');
